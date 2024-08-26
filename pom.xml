@@ -26,7 +26,7 @@
         <!--start集成swagger-API-->
         <swagger.version>1.5.21</swagger.version>
         <javassist.version>3.18.2-GA</javassist.version>
-        <springfox.version>2.9.2</springfox.version>
+        <springfox.version>2.10.0</springfox.version>
     </properties>
 
     <dependencies>
